@@ -80,7 +80,7 @@ In level three, you will see some CSS properties that you haven't been exposed t
 
 ## Step 1
 
-* Open `level-3/index.html` && `level-3/step-1.css` && `level-3/step-1.css`.
+* Open `level-3/index.html` && `level-3/step-1.css` && `level-3/step-1.jpg`.
 * Locate the element with the class of `main-top-section`.
   * Add a background color of `#F2EFE5`.
 * Locate the element with the class of `menu-icon`.
